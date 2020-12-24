@@ -9,11 +9,11 @@ permalink: /about/
 
 
 
-Hi, I’m Azamuke Denish and I specialize in Mobile Applications. I’m passionate about what I do, and I love to help people. Nothing is more fulfilling than being part of a team with similar interests, and an organization that values its people.
+Hi, I’m Valensi Grevazi and I specialized in Mathematics. I’m passionate about what I do, and I love to help people. Nothing is more fulfilling than being part of a team with similar interests, and an organization that values its people.
 
-I am passionate about App Development and communities. I just enjoy working on new ideas. Also work as smart as possible. I love to do creative apps. I am always ready to learn new things and help people, organisations and companies however due to large volume of requests, i give attention to paid requests.
+I am passionate about Mathematical Modelling and communities. I just enjoy working on new ideas. Also work as smart as possible. I love designing Mathematical Model with the aim of solving problems in the society. I am always ready to learn new things and help people, organisations and companies however due to large volume of requests, i give attention to paid requests.
 
-I studied Bachelor of science in computer science at Makerere University from 2016 to 2019. In July 3rd - 4th 2019, I was able to represent Makerere University at The Africa Blockchain Conference, Kampala Serena Conference Centre. I also represented the University in many exhibitions in Kampala.
+I studied Bachelor of science with education in Mathematics and Geography at Sokoine University(SUA),Tanzania from 2016 to 2019. Currently am persuing Master's in Mathematical Sciences at African Institute for Mathematical Sciences,Rwanda. 
 
 
 ### Let's be friends
@@ -23,7 +23,7 @@ Join me on the following networks and/or websites:
 <!-- Social links -->
 <ul class="social-links">
   <li>
-    <a rel="me" href="//twitter.com/azamukedenish1">
+    <a rel="me" href="//twitter.com/Mugoloz">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-twitter"></use></svg>
       </span><br><span class="label">Twitter</span>
@@ -44,7 +44,7 @@ Join me on the following networks and/or websites:
     </a>
   </li>
   <li>
-    <a rel="me" href="//github.com/azamukedenish">
+    <a rel="me" href="//github.com/MUGOLOZI">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-github"></use></svg>
       </span><br><span class="label">GitHub</span>
@@ -52,8 +52,7 @@ Join me on the following networks and/or websites:
   </li>
   
   <li>
-    <a rel="me" href="//linkedin.com/in/azamuke-denish-
-42b465145/">
+    <a rel="me" href="https://www.linkedin.com/in/valensi-grevazi-03b5881ba/">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-linkedin"></use></svg>
       </span><br><span class="label">LinkedIn</span>
@@ -80,7 +79,7 @@ I'd like to think that I'm very happy person, but I find the art that strikes me
 
 ### About the site
 
-In this site you'll find a recollection of thoughts and opinions based on my experience regarding subjects and issues that are of interest to is all in the mobile app industry, subjects such as design, development, or innovation among other mobile culture for businesses, companies and organisations.
+In this site you'll find a recollection of thoughts and opinions based on my experience regarding subjects and issues that are of interest to is all in the application of mathematics in solving real life problems.
 
 In case you were wondering, this site is:
 
@@ -92,7 +91,7 @@ In case you were wondering, this site is:
 
 ...for more informations see [humans.txt](/humans.txt).
 
-If you enjoy the content found here, feel free to send me any feedback, comments, or suggestions about the site and business using denishazamukeATgmailDOTcom.
+If you enjoy the content found here, feel free to send me any feedback, comments, or suggestions about the site and business using valensi.grevazi@aims.ac.rw
 
 ### Licensing
 
