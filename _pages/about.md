@@ -37,7 +37,7 @@ Join me on the following networks and/or websites:
     </a>
   </li>
   <li>
-     <a rel="me" href="//instagram.com/azamukedenish">
+     <a rel="me" href="//instagram.com/mr_mugoloz">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-instagram"></use></svg>
       </span><br><span class="label">Instagram</span>
