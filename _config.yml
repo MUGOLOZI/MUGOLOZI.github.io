@@ -1,4 +1,4 @@
-title: "Valensi Grevazi"
+title: Valensi Grevazi
 description: "my web"
 url: "https://MUGOLOZI.github.io"
 
@@ -77,7 +77,7 @@ gist:
 paginate_path: "/writings/page:num/"
 paginate: 10
 
-permalink: "/:title/"  input: GFM
+#permalink: "/:title/"  input: GFM
 defaults:
   - scope:
       path: "https://www.covidvisualizer.com/"
