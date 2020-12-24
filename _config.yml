@@ -1,4 +1,4 @@
-title: Azamuke Denish
+title: Valensi Grevazi
 description: "my web"
 url: "https://MUGOLOZI.github.io"
 
@@ -11,8 +11,8 @@ image: "/assets/img/writings.jpg"
 theme_color: "#000000"
 
 author:
-  name: Azamuke Denish
-  email: denishazamuke@gmail.com
+  name: Valensi Grevazi
+  email: valensi.grevazi@aims.ac.rw
   uri: https://MUGOLOZI.github.io
   avatar: "/assets/img/m-icon-white-on-blue.png"
   bio: "Computer Scientist, building Innovations to support the local communities in Uganda"
@@ -28,7 +28,7 @@ author:
   locality: Kampala
   region: central
   postcode: 2570
-  country: Uganda
+  country: Tanzania
 
 facebook:
   admins: 100001982813077
