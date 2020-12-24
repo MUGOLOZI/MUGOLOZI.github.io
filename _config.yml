@@ -77,7 +77,7 @@ gist:
 paginate_path: "/writings/page:num/"
 paginate: 10
 
-permalink: "/:title/"
+permalink: "/:title/"  input: GFM
 defaults:
   - scope:
       path: "https://www.covidvisualizer.com/"
