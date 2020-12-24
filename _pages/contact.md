@@ -11,7 +11,7 @@ If you have any questions, comments, or would just like to say hello in general,
 <ul class="social-links">
   {% if site.author.twitter %}
   <li>
-    <a rel="me" href="//twitter.com/azamukedenish1">
+    <a rel="me" href="//twitter.com/Mugoloz">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-twitter"></use></svg>
       </span><br><span class="label">Twitter</span>
@@ -27,14 +27,14 @@ If you have any questions, comments, or would just like to say hello in general,
     </a>
   </li>
   <li>
-     <a rel="me" href="//instagram.com/azamukedenish">
+     <a rel="me" href="//instagram.com/mr_mugoloz">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-instagram"></use></svg>
       </span><br><span class="label">Instagram</span>
     </a>
   </li>
   <li>
-    <a rel="me" href="//github.com/azamukedenish">
+    <a rel="me" href="//github.com/MUGOLOZI">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-github"></use></svg>
       </span><br><span class="label">GitHub</span>
