@@ -29,13 +29,14 @@ Join me on the following networks and/or websites:
       </span><br><span class="label">Twitter</span>
     </a>
   </li>
+  <!--
   <li>
-    <a rel="me" href="//www.facebook.com/Azamuke-Denish-111776309235790/?ref=page_internal">
+     <a rel="me" href="//www.facebook.com/Azamuke-Denish-111776309235790/?ref=page_internal">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-facebook"></use></svg>
       </span><br><span class="label">Facebook</span>
     </a>
-  </li>
+  </li>-->
   <li>
      <a rel="me" href="//instagram.com/mr_mugoloz">
       <span class="svg-icon svg-baseline" aria-hidden="true">
@@ -59,14 +60,14 @@ Join me on the following networks and/or websites:
     </a>
   </li>
  
-  
+  <!--
   <li>
     <a rel="me" href="//medium.com/@denishazamuke">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-medium"></use></svg>
       </span><br><span class="label">Medium</span>
     </a>
-  </li>
+  </li> -->
 </ul>
 
 
